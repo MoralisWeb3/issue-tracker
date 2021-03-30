@@ -1,4 +1,8 @@
-# Frequently Asked Questions
+# FRPC
+
+## What version should i use on Mac?
+
+-   frp_x.xx.x_darwin_amd64.tar.gz
 
 ## How should I run frpc on Mac?
 
